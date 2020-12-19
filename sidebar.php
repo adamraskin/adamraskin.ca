@@ -1,9 +1,10 @@
 
 <div class="sidebar">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+    <!-- each page should set its menu entry as class="active" -->
+  <a href="/index">Home</a>
+  <a href="/resume">Qualifications</a>
+  <a href="/projects">Projects</a>
+  <a href="/contact">Contact</a>
 </div>
 
 <style>
@@ -16,7 +17,7 @@
     height: 100%;
     overflow: auto;
     }
-
+    
     /* Sidebar links */
     .sidebar a {
     display: block;
