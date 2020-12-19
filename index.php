@@ -2,6 +2,7 @@
 	<head>
 		<?php
 			include("includes.php");
+			include("sidebar.php");
 		?>
 	</head>
 	<body>

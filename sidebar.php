@@ -6,10 +6,6 @@
   <a href="#about">About</a>
 </div>
 
-<div class="content">
-  testing :)
-</div>
-test
 <style>
     .sidebar {
     margin: 0;
