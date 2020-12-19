@@ -7,7 +7,7 @@
 	<body>
     <center>
       <h1>
-        Peepee Poopoo
+        index
       </h1>
     </center>
 	</body>
