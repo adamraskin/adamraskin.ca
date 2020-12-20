@@ -8,7 +8,7 @@
 	<body>
     <center>
       <h1>
-        Home
+        Contact Info
       </h1>
     </center>
 	</body>

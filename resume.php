@@ -8,7 +8,7 @@
 	<body>
     <center>
       <h1>
-        Home
+        Qualifications
       </h1>
     </center>
 	</body>
