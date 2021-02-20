@@ -2,7 +2,7 @@
 <div class="sidebar">
     <!-- each page should set its menu entry as class="active" -->
   <a href="/">Home</a>
-  <a href="/resume">Qualifications</a>
+  <a href="/resume">Resume</a>
   <a href="/projects">Projects</a>
   <a href="/contact">Contact</a>
 </div>

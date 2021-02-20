@@ -8,7 +8,7 @@
 	<body>
     <center>
       <h1>
-        Qualifications
+        Resume
       </h1>
     </center>
 	</body>
